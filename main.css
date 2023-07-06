@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.menu {
+    cursor: pointer;
+    list-style: none;
+}
+
+.menu li {
+    display: inline;
+    margin-left: 16px;
+}
+
+.menu a {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #000;
+    text-decoration: none;
+}
+
+.sobre-nos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 48px;
+    padding: 20px;
+}
+
+.sobre-nos img {
+    width: 50vh;
+    margin-right: 20px;
+}
+
+.sobre-texto h2 {
+    margin-bottom: 14px;
+}
+
+.produtos {
+    padding: 20px;
+    margin-top: 16px;
+}
+
+.produtos h2 {
+    padding-bottom: 14px;
+    border-bottom: 1px solid #ccc;
+}
+
+.lista-produtos ul {
+    display: grid;
+    grid-template-columns: repeat(4, 24.25%);
+    column-gap: 1%;
+    margin-top: 34px;
+    list-style: none;
+}
+
+.lista-produtos img {
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.lista-produtos h3,
+.lista-produtos p {
+    display: flex;
+    justify-content: center;
+}
+
+.lista-produtos h3 {
+    font-size: 16px;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+}
+
+.lista-produtos p {
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+
+.lista-produtos button {
+    display: block;
+    font-weight: bold;
+    color: #fff;
+    background-color: #39C059;
+    border: none;
+    padding: 8px;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+@media screen and (max-width: 640px) {
+    .sobre-nos {
+        display: block;
+        margin-top: 24px;
+        padding: 20px;
+    }
+
+    .sobre-nos img {
+        width: 100%;
+    }
+
+    .sobre-nos h2 {
+        margin-top: 18px;
+        margin-bottom: 12px;
+    }
+
+    .lista-produtos ul {
+        display: block;
+    }
+
+    .lista-produtos button {
+        margin-bottom: 46px;
+    }
+}
+
+@media screen and (min-width: 641px) and (max-width: 1023px){
+    .sobre-nos {
+        display: block;
+        margin-top: 24px;
+        padding: 20px;
+    }
+
+    .sobre-nos img {
+        width: 100%;
+    }
+
+    .sobre-nos h2 {
+        margin-top: 24px;
+        margin-bottom: 12px;
+    }
+
+    .lista-produtos ul {
+        display: grid;
+        grid-template-columns: repeat(2, 49%);
+        column-gap: 2%;
+        margin-top: 34px;
+        list-style: none;
+    }
+
+    .lista-produtos button {
+        margin-bottom: 46px;
+    }
+}
