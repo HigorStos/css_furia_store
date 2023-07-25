@@ -1,11 +1,12 @@
 <h1 align="center">
   Furia Store  
 </h1>
+
 ## 📷 Deploy
 
 <h3>LINK: https://furia-store.vercel.app/</h3>
 <a href="https://furia-store.vercel.app/" target="_blank">
- <img src="./preview.png" width="100%" style="border-radius: 6px" />
+ <img src="./.github/preview.png" width="100%" style="border-radius: 6px" />
 </a>
 
 ## 💻 Projeto
