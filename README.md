@@ -6,14 +6,15 @@
 
 ## 💻 Projeto
 
-O Projeto CineX foi desenvolvido como parte da Avaliação A3 na Universidade São Judas Tadeu. Neste projeto, assumi a liderança de uma equipe de 4 pessoas, sendo responsável desde a modelagem do software até a programação e gerenciamento do banco de dados. O objetivo principal do projeto era criar um sistema de bilheteria para cinemas, com foco em oferecer uma interface simples e de fácil uso para os atendentes.
+O Projeto CineX foi desenvolvido como parte da Avaliação A3 na Universidade São Judas Tadeu. 
+Neste projeto, assumi a liderança de uma equipe de 4 pessoas, sendo responsável desde a modelagem do software até a programação e gerenciamento do banco de dados, além de ter desenvolvido toda a parte da programação. O objetivo principal do projeto era criar um sistema de bilheteria para cinemas, com foco em oferecer uma interface simples e de fácil uso para os atendentes.
 
 ## 🚀 Tecnologias
 
-- Java
-- Firebase
+- <strong>Java</strong>
+- <strong>Firebase</strong>
 
-## 🚀 Funcionalidades
+## ⚙️ Funcionalidades
 
 <ul>
   <li>
