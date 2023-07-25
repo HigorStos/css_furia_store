@@ -15,6 +15,6 @@ Projeto próprio, onde consegui aplicar os conceitos de CSS Responsivo e HTML pa
 ## 🚀 Tecnologias
 - HTML
 - CSS
-- 
+
 ## 📔 Conhecimentos utilizados
 - [x] CSS Responsivo
