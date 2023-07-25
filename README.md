@@ -30,7 +30,7 @@ Neste projeto, assumi a liderança de uma equipe de 4 pessoas, sendo responsáve
     <strong>Seleção de Assentos: </strong> Os clientes podem selecionar os assentos disponíveis para a sessão escolhida.
   </li>
   <li>
-    <strong>Tipo de Ingressos: </strong> Oferece opções de tipos de ingressos (meia-entrada, inteira, etc.) para os clientes escolherem.
+    <strong>Ingressos: </strong> Oferece opções de tipos de ingressos (meia-entrada, inteira, etc.) para os clientes escolherem.
   </li>
   <li>
     <strong>Acompanhamentos: </strong> Permite que os clientes adicionem acompanhamentos, como pipoca e refrigerante, à compra do ingresso.
