@@ -4,7 +4,7 @@
 
 ## 📷 Deploy
 
-<h3>LINK: https://furia-store.vercel.app/</h3>
+<h3>LINK: https://furia-store.vercel.app</h3>
 <a href="https://furia-store.vercel.app/" target="_blank">
  <img src="./.github/preview.png" width="100%" style="border-radius: 6px" />
 </a>
